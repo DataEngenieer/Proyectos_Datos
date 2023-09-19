@@ -26,6 +26,22 @@
 
 ![image](https://github.com/DataEngenieer/proyectos/assets/127630511/9789da8e-c57f-4443-9244-22b1c13355be)
 
+**Herramientas de Automatización y Análisis de Datos**
+
+          Knime - Pentaho
+
+Amplia experiencia en el uso de herramientas líderes en el campo, incluyendo Knime y Pentaho. Competente en la creación de flujos de trabajo de automatización de procesos, integración de datos, transformación, y generación de informes. Capacidad demostrada para optimizar procesos y extraer información valiosa a partir de datos complejos.
+
+- Mas de 30 Procesos automaticos lo soportan
+
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/22d58e76-92c2-4582-877b-2970e1509e30)
+
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/9fc2208b-532c-47b9-ab76-4f2efa48ed22)
+
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/c6e899f0-aca2-42ec-951e-cb9274611c1b)
+
+![MicrosoftTeams-image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/c8325f20-8859-4420-b11e-e8f0a9625a43)
+
 
 **Datawarehouse**
 
