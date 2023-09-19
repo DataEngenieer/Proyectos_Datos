@@ -30,6 +30,10 @@
 
 ![img_3](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/6385575d-2f33-4878-9600-c63930da60e6)
 
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/74e799c9-da5c-4fcb-97e9-0890ff3820dd)
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/2a506eb3-2674-4ea0-947a-d72a7c3f7fce)
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/a9f716aa-0138-42dd-a1d4-10f07c54c605)
+
 
 # **Herramientas de Automatización y Análisis de Datos**
 
