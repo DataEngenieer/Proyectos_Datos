@@ -12,6 +12,10 @@
 
 /Codigo de consulta, manipulacion y actualizacion de informacion con el uso de 3 endpoint de API`s
 
+![img_1](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/229ef81e-4bb5-46c3-ac62-6a78a0e12432)
+
+![img_2](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/97a5de8b-7792-426b-8b07-8827b50e3b2e)
+
 ![image](https://github.com/DataEngenieer/proyectos/assets/127630511/1c46652c-ddd8-41e1-ac84-c51a3014cc1c)
 
 ![image](https://github.com/DataEngenieer/proyectos/assets/127630511/60015896-b407-41e6-b33c-1f374cae299a)
