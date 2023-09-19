@@ -153,3 +153,12 @@ Herramienta para la automatizacion de tareas web como
 - Manejo de webhooks
 
 ![img_18](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/d0f9a5e5-ed4c-43e8-8772-38b1ca2ba17d)
+
+# **Parametrizacion de Chatbot´s**
+
+          Wasapi - Wolkvox
+
+- configuracion, montaje 
+
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/e1878cb2-0235-4905-98c4-687ef0f9c128)
+
