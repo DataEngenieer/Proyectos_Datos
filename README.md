@@ -16,9 +16,7 @@
 
 ![img_2](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/97a5de8b-7792-426b-8b07-8827b50e3b2e)
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/1c46652c-ddd8-41e1-ac84-c51a3014cc1c)
-
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/60015896-b407-41e6-b33c-1f374cae299a)
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/8a815101-8daa-4757-be6f-e1ca4f8050f9)
 
 
 **Manipulacion de datos con SQL**
@@ -28,7 +26,8 @@
 -Amplia experiencia en el manejo de bases de datos relacionales utilizando SQL en la creación y optimización de consultas complejas para recuperar, actualizar y gestionar datos de manera eficiente. 
 -Conocimiento en el diseño de esquemas de bases de datos y en la optimización de rendimiento.
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/9789da8e-c57f-4443-9244-22b1c13355be)
+![img_3](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/6385575d-2f33-4878-9600-c63930da60e6)
+
 
 **Herramientas de Automatización y Análisis de Datos**
 
