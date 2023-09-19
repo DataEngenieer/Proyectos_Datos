@@ -35,7 +35,8 @@
 
           Knime - Pentaho
 
-Amplia experiencia en el uso de herramientas líderes en el campo, incluyendo Knime y Pentaho. Competente en la creación de flujos de trabajo de automatización de procesos, integración de datos, transformación, y generación de informes. Capacidad demostrada para optimizar procesos y extraer información valiosa a partir de datos complejos.
+- Amplia experiencia en el uso de herramientas líderes en el campo, incluyendo Knime y Pentaho. 
+- Competente en la creación de flujos de trabajo de automatización de procesos, integración de datos, transformación, y generación de informes. Capacidad demostrada para optimizar procesos y extraer información valiosa a partir de datos complejos.
 
 - Mas de 30 Procesos automaticos lo soportan
 
@@ -52,7 +53,7 @@ Amplia experiencia en el uso de herramientas líderes en el campo, incluyendo Kn
 
           Servidor Ubuntu Mysql - Servidor AmazonRDS-Mysql - Servidor Ubuntu Postgres
 
-* Diseño y montaje de servidor [Inhouse o Serverless] dispuesto para el almacenamiento, tranformacion y disposicion  de los datos utilizados en cada area y proceso e la compañia.
+* Diseño y montaje de servidor [Inhouse o Serverless] dispuesto para el almacenamiento, transformacion y disposicion  de los datos utilizados en cada area y proceso e la compañia.
 * Se da solucion a problemas de seguridad, escalabilidad y disponibilidad de la informacion
 * Se obtienen datos en tiempo real para dashboard y toma de desiciones
 
