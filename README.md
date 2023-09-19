@@ -10,13 +10,17 @@
 -          .Desarrollo de scripts y automatización de tareas con Python para mejorar la eficiencia operativa.
 -           (En estudio) Proyectos de análisis de datos y machine learning utilizando bibliotecas como scikit-learn y TensorFlow.
 
+/Certificacion Cisco - Skill For All - Python Essentials 1
+
+![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/8a815101-8daa-4757-be6f-e1ca4f8050f9)
+
 /Codigo de consulta, manipulacion y actualizacion de informacion con el uso de 3 endpoint de API`s
 
 ![img_1](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/229ef81e-4bb5-46c3-ac62-6a78a0e12432)
 
 ![img_2](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/97a5de8b-7792-426b-8b07-8827b50e3b2e)
 
-![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/8a815101-8daa-4757-be6f-e1ca4f8050f9)
+
 
 
 **Manipulacion de datos con SQL**
