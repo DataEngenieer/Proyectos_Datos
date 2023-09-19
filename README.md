@@ -158,7 +158,9 @@ Herramienta para la automatizacion de tareas web como
 
           Wasapi - Wolkvox
 
-- configuracion, montaje 
+- Planteamiento y montaje de flujo conversacional
+- Parametrizacion especifica de chatbot
+- Integracion con otras aplicaciones
 
 ![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/e1878cb2-0235-4905-98c4-687ef0f9c128)
 
