@@ -21,7 +21,7 @@
 ![img_2](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/97a5de8b-7792-426b-8b07-8827b50e3b2e)
 
 
-#**Manipulacion de datos con SQL**
+# **Manipulacion de datos con SQL**
 
           Consultas - Tablas - Vistas - Procedimientos Almacenados - Trigger - Eventos
 
@@ -31,7 +31,7 @@
 ![img_3](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/6385575d-2f33-4878-9600-c63930da60e6)
 
 
-#**Herramientas de Automatización y Análisis de Datos**
+# **Herramientas de Automatización y Análisis de Datos**
 
           Knime - Pentaho
 
@@ -48,7 +48,7 @@ Amplia experiencia en el uso de herramientas líderes en el campo, incluyendo Kn
 ![MicrosoftTeams-image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/c8325f20-8859-4420-b11e-e8f0a9625a43)
 
 
-#**Datawarehouse**
+# **Datawarehouse**
 
           Servidor Ubuntu Mysql - Servidor AmazonRDS-Mysql - Servidor Ubuntu Postgres
 
@@ -69,7 +69,7 @@ Caracteristicas principales
 
 ![img_5](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/ae5f510b-bdbd-4c6c-b31e-12bed95f1d53)
 
-#**Aplicaciones de escritorio**
+# **Aplicaciones de escritorio**
 
           Aplicativo App Controller
 
@@ -89,7 +89,7 @@ Aplicacion desarrollada en python, con interfaz grafica e intuitiva capaz de con
 ![img_9](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/5db8c236-88d0-4f24-b1d2-4b54c95895a8)
 
 
-#**Plataformas Web**
+# **Plataformas Web**
 
           ERP y CRM Ancora
 
@@ -108,7 +108,7 @@ Caracteristicas principales
 ![img_13](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/596a6c9e-ab49-4d97-bc7d-8dc009a51d16)
 ![img_14](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/075b0e3d-850c-419a-835a-c52158944421)
 
-#**API Gateway**
+# **API Gateway**
 
           Amazon API REST - HTTP - WEBHOOKS
 
@@ -124,7 +124,7 @@ Servicio de administracion de API para crear una puerta de enlace y activacion a
 
 ![img_16](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/069749b6-1f55-4525-bead-057a20bc75dc)
 
-#**Lambda**
+# **Lambda**
 
           Amazon Lambda
 
@@ -135,7 +135,7 @@ Servicio para ejecucion de scripts o programas sin necesidad de servidor, lo que
 
 ![img_17](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/cb8b511f-c37d-436a-8197-b2d0c9129e05)
 
-#**Servicio de automatizacion Web**
+# **Servicio de automatizacion Web**
 
           MAKE o INTEGROMAT
 
