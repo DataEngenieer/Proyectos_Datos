@@ -1,6 +1,6 @@
 # Proyectos y conocimientos aplicados a la automatizacion de procesos, reporting services, analisis y visualizacion de datos
 
-**Programacion en python**
+# **Programacion en python**
 
           Scripting, Server, API`s, Frameworks
 -           Experiencia sólida en el desarrollo y automatización de procesos utilizando Python
@@ -21,9 +21,7 @@
 ![img_2](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/97a5de8b-7792-426b-8b07-8827b50e3b2e)
 
 
-
-
-**Manipulacion de datos con SQL**
+#**Manipulacion de datos con SQL**
 
           Consultas - Tablas - Vistas - Procedimientos Almacenados - Trigger - Eventos
 
@@ -33,7 +31,7 @@
 ![img_3](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/6385575d-2f33-4878-9600-c63930da60e6)
 
 
-**Herramientas de Automatización y Análisis de Datos**
+#**Herramientas de Automatización y Análisis de Datos**
 
           Knime - Pentaho
 
@@ -50,7 +48,7 @@ Amplia experiencia en el uso de herramientas líderes en el campo, incluyendo Kn
 ![MicrosoftTeams-image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/c8325f20-8859-4420-b11e-e8f0a9625a43)
 
 
-**Datawarehouse**
+#**Datawarehouse**
 
           Servidor Ubuntu Mysql - Servidor AmazonRDS-Mysql - Servidor Ubuntu Postgres
 
@@ -67,12 +65,11 @@ Caracteristicas principales
 - Integracion con sistemas del cliente, sistemas de marcacion, y CRM
 - Orquestador de ejecucion para procesos automaticos
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/c8ffa7a5-465a-433b-b4d1-c12d1ee28e87)
+![img_4](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/db595f26-5266-46df-a793-575d82dc8240)
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/889543dd-b4dc-4fa1-a64e-f97d7c198ed3)
+![img_5](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/ae5f510b-bdbd-4c6c-b31e-12bed95f1d53)
 
-
-**Aplicaciones de escritorio**
+#**Aplicaciones de escritorio**
 
           Aplicativo App Controller
 
@@ -83,16 +80,16 @@ Aplicacion desarrollada en python, con interfaz grafica e intuitiva capaz de con
 - Reduccion de tiempos de tareas operativas
 - Monitoreo en tiempo real
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/d693aee4-9ba7-4fd9-8f29-0457224fe604)
+![img_6](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/8d72b6d7-eee2-43d7-871a-06957f9dd760)
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/f3d12218-9a84-40aa-ab93-c5ae4782f9ff)
+![img_7](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/971379dc-8caf-4aa0-8ce7-cc468947f14b)
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/c89b47cf-87bf-42a7-8913-09af5fef0608)
+![img_8](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/4683ed76-d9bd-49b4-adff-ff233b65996d)
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/cead4b25-da6f-4d90-abb7-e95d3cc745a1)
+![img_9](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/5db8c236-88d0-4f24-b1d2-4b54c95895a8)
 
 
-**Plataformas Web**
+#**Plataformas Web**
 
           ERP y CRM Ancora
 
@@ -116,7 +113,7 @@ Caracteristicas principales
 ![image](https://github.com/DataEngenieer/proyectos/assets/127630511/7874d69e-c3ab-4bfb-8e24-39116566e7ff)
 
 
-**API Gateway**
+#**API Gateway**
 
           Amazon API REST - HTTP - WEBHOOKS
 
@@ -132,7 +129,7 @@ Servicio de administracion de API para crear una puerta de enlace y activacion a
 
 ![image](https://github.com/DataEngenieer/proyectos/assets/127630511/0aa2140f-c638-4b71-b78c-fe76b0974f0c)
 
-**Lambda**
+#**Lambda**
 
           Amazon Lambda
 
@@ -143,7 +140,7 @@ Servicio para ejecucion de scripts o programas sin necesidad de servidor, lo que
 
 ![image](https://github.com/DataEngenieer/proyectos/assets/127630511/528136ac-5b38-4a8d-b8c0-dcf6d7af0218)
 
-**Servicio de automatizacion Web**
+#**Servicio de automatizacion Web**
 
           MAKE o INTEGROMAT
 
