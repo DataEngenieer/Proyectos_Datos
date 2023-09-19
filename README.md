@@ -101,17 +101,12 @@ Caracteristicas principales
 - Escalabilidad de infraestructura deacuedo a la necesidad
 - Costos de desarrollo mas bajos comparados con desarrollo en codigo tradicional
 - Tiempos de desarrollo mas cortos comparados con desarrollo en codigo tradicional
-
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/e11de82e-0a0e-46ad-9acd-10ea9be748c5)
-
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/6fb65206-d92a-4870-a953-859bcdf369de)
-
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/604e0ce2-d1f1-450b-917c-25ac29c0398f)
-
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/01dce9a9-2dab-4d95-adc1-bc2a0d146bda)
-
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/7874d69e-c3ab-4bfb-8e24-39116566e7ff)
-
+- 
+![img_10](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/cd23b9a8-589d-4832-b591-5dca114dcbf7)
+![img_11](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/429fc725-691f-4a17-91e6-a6acafcb40ae)
+![img_12](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/c44c5d5b-3442-4de3-8ce8-a36667f8682c)
+![img_13](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/596a6c9e-ab49-4d97-bc7d-8dc009a51d16)
+![img_14](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/075b0e3d-850c-419a-835a-c52158944421)
 
 #**API Gateway**
 
@@ -125,9 +120,9 @@ Servicio de administracion de API para crear una puerta de enlace y activacion a
 - Seguridad
 - Integracion con cualquier aplicacion que utilice metodos http 
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/79726dc5-5962-41be-97b1-d338e7942d65)
+![img_15](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/340d3425-56c2-4978-97e2-2dbe74acb53b)
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/0aa2140f-c638-4b71-b78c-fe76b0974f0c)
+![img_16](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/069749b6-1f55-4525-bead-057a20bc75dc)
 
 #**Lambda**
 
@@ -138,7 +133,7 @@ Servicio para ejecucion de scripts o programas sin necesidad de servidor, lo que
 - Script en Python
 - Script en Node.js
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/528136ac-5b38-4a8d-b8c0-dcf6d7af0218)
+![img_17](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/cb8b511f-c37d-436a-8197-b2d0c9129e05)
 
 #**Servicio de automatizacion Web**
 
@@ -151,4 +146,4 @@ Herramienta para la automatizacion de tareas web como
 -Envio de sms automaticos
 -Manejo de webhooks
 
-![image](https://github.com/DataEngenieer/proyectos/assets/127630511/6cf8667c-7561-4997-a73b-7d8ec79abc8c)
+![img_18](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/d0f9a5e5-ed4c-43e8-8772-38b1ca2ba17d)
