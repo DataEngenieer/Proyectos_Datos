@@ -140,10 +140,11 @@ Servicio para ejecucion de scripts o programas sin necesidad de servidor, lo que
           MAKE o INTEGROMAT
 
 Herramienta para la automatizacion de tareas web como 
--Extraccion de clientes potenciales de facebook, instagram, google
--Servicios de notificaciones
--Envio de correos automaticos
--Envio de sms automaticos
--Manejo de webhooks
+
+- Extraccion de clientes potenciales de facebook, instagram, google
+- Servicios de notificaciones
+- Envio de correos automaticos
+- Envio de sms automaticos
+- Manejo de webhooks
 
 ![img_18](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/d0f9a5e5-ed4c-43e8-8772-38b1ca2ba17d)
