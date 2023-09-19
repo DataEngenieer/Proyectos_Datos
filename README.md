@@ -7,7 +7,7 @@
 -           Competencia en la manipulación de datos, limpieza, análisis y visualización con bibliotecas como pandas, NumPy y Matplotlib.
 -           Conocimiento en la creación de aplicaciones web utilizando frameworks como Flask y Django.
 -           Uso avanzado de Python en la integración de API y extracción de datos de diversas fuentes.
--          .Desarrollo de scripts y automatización de tareas con Python para mejorar la eficiencia operativa.
+-           Desarrollo de scripts y automatización de tareas con Python para mejorar la eficiencia operativa.
 -           (En estudio) Proyectos de análisis de datos y machine learning utilizando bibliotecas como scikit-learn y TensorFlow.
 
 /Certificacion Cisco - Skill For All - Python Essentials 1
