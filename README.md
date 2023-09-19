@@ -25,8 +25,8 @@
 
           Consultas - Tablas - Vistas - Procedimientos Almacenados - Trigger - Eventos
 
--Amplia experiencia en el manejo de bases de datos relacionales utilizando SQL en la creación y optimización de consultas complejas para recuperar, actualizar y gestionar datos de manera eficiente. 
--Conocimiento en el diseño de esquemas de bases de datos y en la optimización de rendimiento.
+- Amplia experiencia en el manejo de bases de datos relacionales utilizando SQL en la creación y optimización de consultas complejas para recuperar, actualizar y gestionar datos de manera eficiente. 
+- Conocimiento en el diseño de esquemas de bases de datos y en la optimización de rendimiento.
 
 ![img_3](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/6385575d-2f33-4878-9600-c63930da60e6)
 
