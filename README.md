@@ -90,9 +90,9 @@ Aplicacion desarrollada en python, con interfaz grafica e intuitiva capaz de con
 ![img_9](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/5db8c236-88d0-4f24-b1d2-4b54c95895a8)
 
 
-# **Plataformas Web**
+# **Plataformas Web - ERP y CRM**
 
-          ERP y CRM Ancora
+          ERP Ancora
 
 Sistema de planificación de recursos empresariales, diseñado a la medida de cada area de la empresa, se unifica el concepto de ERP y CRM, teniendo un solo sistema capaz de administrar la informacion, con seguridad, y eficiencia
 
