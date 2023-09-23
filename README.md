@@ -1,6 +1,7 @@
 # Reporting Solutions BPO ![image](https://github.com/DataEngenieer/Proyectos_Datos/assets/127630511/34987523-586f-4f71-81d5-e883b7566879)
 
-# Tercerizacion de personal experto en:
+
+#           Tercerizacion de personal experto en:
 
 # -Automatizacion de procesos 
 # -Integraciones 
