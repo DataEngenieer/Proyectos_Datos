@@ -1,4 +1,4 @@
-# Proyectos y conocimientos aplicados a la automatizacion de procesos, reporting services, analisis y visualizacion de datos
+# Reporting Services BPO
 
 # **Programacion en python**
 
