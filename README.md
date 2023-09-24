@@ -8,6 +8,9 @@
 # -Reporteria en tiempo real
 # -Desarrollo de programas y plataformas a la medida
 
+<br>
+
+
 # **Programacion en python**
 
           Scripting, Server, API`s, Frameworks
